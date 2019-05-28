@@ -1,0 +1,16 @@
+.settings
+.project
+.idea
+.DS_Store
+*.iml
+**/.settings
+**/.classpath
+**/.eclipse
+**/.project
+**/target
+**/bin
+**/.DS_Store
+/META-INF
+/target
+/.classpath
+MANIFEST.MF
